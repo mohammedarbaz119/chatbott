@@ -8,8 +8,8 @@ import {
   ChevronRight,
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
-import { useForm, SubmitHandler, set } from "react-hook-form";
-import { ColorPicker, Divider, Drawer, Collapse } from "antd";
+import { useForm, SubmitHandler } from "react-hook-form";
+import { ColorPicker, Drawer, Collapse } from "antd";
 import { Color } from "antd/es/color-picker";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
