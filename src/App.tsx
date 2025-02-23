@@ -32,7 +32,7 @@ function App() {
         </main>
         <CustomizableChatbot />
       </div>
-      <Toaster /> {/* Add Toaster here */}
+      <Toaster /> 
     </ConfigProvider>
   );
 }
